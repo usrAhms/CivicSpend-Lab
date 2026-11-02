@@ -4,7 +4,7 @@ A browser-based prototype for exploring procurement invoice review workflows usi
 
 ## Live demo
 
-After enabling GitHub Pages, your link will be `(https://usrahms.github.io/CivicSpend-Lab/)`.
+After enabling GitHub Pages, your link will be `https://usrahms.github.io/CivicSpend-Lab/`
 
 ## Features
 
